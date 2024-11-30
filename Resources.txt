@@ -1,2 +1,5 @@
 Deploy app:
 netlify.com
+
+Email sender:
+www.emailjs.com

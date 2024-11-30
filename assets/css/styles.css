@@ -1567,7 +1567,7 @@ body.dark-theme {
 
     .contact__button {
         margin-top: 1.25rem;
-        width: max-content;
+        /* width: max-content; */
     }
 
     .contact__data {
